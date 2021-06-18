@@ -11,6 +11,6 @@ DIS- weighted distances to 5 Boston employement centres<br>
 RAD- index of accessibility to radial highways<br>
 TAX- full value property tax rate per $10,000<br>
 PTRATIO- pupil-teacher ratio per town<br>
-B- 1000(Bk-0.63)^2 Where Bk is the proportion of blacks
-LSTAT- % lower status of the population
+B- 1000(Bk-0.63)^2 Where Bk is the proportion of blacks<br>
+LSTAT- % lower status of the population<br>
 MEDV- Median Value of owner occupied homes in $1000's
